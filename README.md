@@ -41,17 +41,5 @@
                 </li>
             </ol>
         </div>
-        <hr />
-    <div class="row">
-        <h4>Please take your time and insert the numbers:</h4><br />
-        <form id="userInput">
-            Fizz:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number" name="Fizz" placeholder="FizzNumber"/><br /><br />
-            Buzz:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number" name="Buzz" placeholder="BussNumber"/><br /><br />
-            Count to:<input type="number" name="countTo" placeholder="Count to"/><br /><br />
-        </form>
-        <button onclick="FizzBuzzFunction()" class="btn btn-primary">Start</button>
-    </div><br />
-        <div id="output">&nbsp;</div>
-    </div>
 </body>
 </html>
