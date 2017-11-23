@@ -1,12 +1,12 @@
 ﻿for (var i = 1; i < 100; i++) { //runs through 1 to 100
     if (i % 3 === 0 && i % 5 === 0) { //controlls if i is a multiple of 3 and 5
-        console.log(i +"FizzBuzz");
+        console.log("FizzBuzz");
     }
     else if (i % 3 === 0) { //controlls if i a multiple of 3
-        console.log(i +"Fizz");
+        console.log("Fizz");
     }
     else if (i % 5 === 0) { //controlls if i is a multiple of 5
-        console.log(i + "Buzz");
+        console.log("Buzz");
     }
     else {
         console.log(i); //prints the current increment of 1 to 100
