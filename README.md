@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <title>FissBuzz</title>
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
     <link href="Content/StyleSheet.css" rel="stylesheet" />
 </head>
@@ -54,6 +53,5 @@
     </div><br />
         <div id="output">&nbsp;</div>
     </div>
-<script src="Scripts/JavaScript.js"></script>
 </body>
 </html>
