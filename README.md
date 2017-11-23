@@ -41,5 +41,12 @@
                 </li>
             </ol>
         </div>
+        <div class="row">
+        <h4>More details:</h4>
+            <ul>
+                <li><a href="http://wiki.c2.com/?FizzBuzzTest">FizzBuzz test</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Fizz_buzz">FizzBuzz wikipaidia</a></li>
+            </ul>
+        </div>
 </body>
 </html>
