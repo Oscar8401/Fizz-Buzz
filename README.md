@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="page-header"><h1>Assigment 8: Web-Front-end and JavaScript</h1></div>
+        <div class="page-header"><h1>Web-Front-end and JavaScript</h1></div>
         <div class="row">
             <h3>FizzBuzz:</h3>
             <p>
