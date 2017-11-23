@@ -1,3 +1,10 @@
 ﻿body {
-    background-color:cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(#2193b0, #6dd5ed);
+}
+h1{
+    color:#405f14;
+}
+h3{
+    color:#405f14;
 }
